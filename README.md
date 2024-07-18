@@ -1,5 +1,5 @@
 # micrograd
- Karpathy's micrograd - 20th Summer Project by Han 2024 
+Karpathy's micrograd - 20th Summer Project by Han 2024 
 
 This is my note on learning micrograd
 Written in Indonesian+English
