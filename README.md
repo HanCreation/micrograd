@@ -9,7 +9,7 @@ Written in Indonesian+English
 
 ## Mistakes made during learning
 1. Forgot to add radd => reverse add to the class so when summing up the forward pass it gets error
-2. Forgot to **reset gradients** before each backward pass since the backward pass accumulates +=; The gradient will accumulate all passes and not changing each gradient for each pass/iteration, this is why the gradients need to be reseted
+2. Forgot to **reset gradients** before each backward pass. The gradient will accumulate (+=) all passes and not changing each gradient for each pass/iteration, this is why the gradients need to be reseted
 
 ## What I learned
 - Neural Networks: Mathematical expressions that take data, weights, and parameters as input.
