@@ -1,4 +1,4 @@
-# micrograd
+# Micrograd
 ## Karpathy's micrograd - 20th Summer Project by Han 2024 
 
 This is my note on learning Micrograd and implementing it from scratch using basic library. 
