@@ -24,6 +24,7 @@ Written in Indonesian+English
 - Derivative of math expression
 - Chain Rule
 
+---
 Noted and Created by Han Summer 2024
 
 Part of The 20th Summer Project
