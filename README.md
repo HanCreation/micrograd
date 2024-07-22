@@ -3,6 +3,8 @@
 
 This is my note on learning Micrograd and implementing it from scratch using basic library. 
 
+Micrograd library originally created by Karpathy, et al.
+
 Written in Indonesian+English
 
 ## Mistakes made during learning
