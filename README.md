@@ -23,6 +23,7 @@ Written in Indonesian+English
 - Special methods in Python
 - Derivative of math expression
 - Chain Rule
+- Get to know pytorch, just a basic
 
 ---
 Noted and Created by Han Summer 2024
