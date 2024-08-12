@@ -19,7 +19,6 @@ Written in Indonesian+English
 - Gradient Descent: An iterative process to minimize the loss by following the gradient.
 - Training: Involves using different loss functions and updates, like cross-entropy loss for predicting sequences.
 - **Micrograd**: Micrograd is an automatic gradient engine that implements backpropagation to evaluate gradients of a loss function with respect to neural network weights, enabling weight tuning to minimize loss.
-- Basic Object Oriented Programming in Python
 - Special methods in Python
 - Derivative of math expression
 - Chain Rule
